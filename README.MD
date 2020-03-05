@@ -1,0 +1,1 @@
+This is an project about detecting garbage piles on roads and send an notification signal for nearby government authorities. We use deep learning CNN's for object detection and firebase cloud messagintifications and we created Android app for receiving notifications.
